@@ -1,0 +1,12 @@
+[
+    { "Dia": "2024-09-01", "ValorFaturamento": 200.00 },
+    { "Dia": "2024-09-02", "ValorFaturamento": 0.00 },
+    { "Dia": "2024-09-03", "ValorFaturamento": 300.00 },
+    { "Dia": "2024-09-04", "ValorFaturamento": 250.00 },
+    { "Dia": "2024-09-05", "ValorFaturamento": 0.00 },
+    { "Dia": "2024-09-06", "ValorFaturamento": 150.00 },
+    { "Dia": "2024-09-07", "ValorFaturamento": 0.00 },
+    { "Dia": "2024-09-08", "ValorFaturamento": 350.00 },
+    { "Dia": "2024-09-09", "ValorFaturamento": 0.00 },
+    { "Dia": "2024-09-10", "ValorFaturamento": 400.00 }
+]

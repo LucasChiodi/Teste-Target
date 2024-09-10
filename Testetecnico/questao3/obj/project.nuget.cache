@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "smC5+wGg66cvIaEAIKIeMs/2ly0thGt9bRaAI1vxfMorZeM6trwIoY32DtmaX6vDO5VRjCxPuRpUowvQ7dht/w==",
+  "success": true,
+  "projectFilePath": "C:\\Lucas chiodi\\teste target\\Testetecnico\\questao3\\questao3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

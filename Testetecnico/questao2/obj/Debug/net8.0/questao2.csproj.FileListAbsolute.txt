@@ -1,0 +1,14 @@
+C:\Lucas chiodi\teste target\Testetecnico\questao2\bin\Debug\net8.0\questao2.exe
+C:\Lucas chiodi\teste target\Testetecnico\questao2\bin\Debug\net8.0\questao2.deps.json
+C:\Lucas chiodi\teste target\Testetecnico\questao2\bin\Debug\net8.0\questao2.runtimeconfig.json
+C:\Lucas chiodi\teste target\Testetecnico\questao2\bin\Debug\net8.0\questao2.dll
+C:\Lucas chiodi\teste target\Testetecnico\questao2\bin\Debug\net8.0\questao2.pdb
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\questao2.AssemblyInfoInputs.cache
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\questao2.AssemblyInfo.cs
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\questao2.csproj.CoreCompileInputs.cache
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\questao2.dll
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\refint\questao2.dll
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\questao2.pdb
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\questao2.genruntimeconfig.cache
+C:\Lucas chiodi\teste target\Testetecnico\questao2\obj\Debug\net8.0\ref\questao2.dll
